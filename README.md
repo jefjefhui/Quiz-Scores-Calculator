@@ -19,3 +19,25 @@ The image above shows how the program looks like after it runs. When the program
 ![img2](https://github.com/jefjefhui/Quiz-Scores-Calculator/assets/73283123/e8e5c232-4eef-43f0-b50e-656b38ea7b9f)
 
 In the image above, I entered one. One means class average, so the program will calculate the class average and show it to the user. Afterwards, users can press enter to continue.
+
+
+![img3](https://github.com/jefjefhui/Quiz-Scores-Calculator/assets/73283123/638ded6b-f484-45ef-801c-9180596e9e35)
+
+The image above shows the program will continue after pressing enter. After pressing enter, the menu will be there again, users can pick another item from the menu.
+
+
+![img4](https://github.com/jefjefhui/Quiz-Scores-Calculator/assets/73283123/3b2b8de6-9db2-49f0-97ee-96c08b4e5553)
+
+The image above shows what will happen after entering 2. Item two refers to the student average, so the program will ask for the student who you are looking for. After entering the student name, it will print out all the quiz scores of that student. Lastly. it will calculate the student average and display it on the screen. Users can press enter to continue the program. 
+
+
+
+![img5](https://github.com/jefjefhui/Quiz-Scores-Calculator/assets/73283123/c541bc19-9f6a-4de7-9296-de1460b775a6)
+
+In the image above, it shows what will happen when enter 3. Three refers to Quiz Average. After selecting Quiz Average from the menu, the program will ask for the Quiz number. In this case, the selected quiz is one. The system will calculate the average score for quiz 1, and show the score on the screen. Users can press enter to continue the program.
+
+
+![img6](https://github.com/jefjefhui/Quiz-Scores-Calculator/assets/73283123/a6ef6045-48d2-4b96-b99e-a7b6e52b031e)
+
+
+In the image above, it shows what will happen when you enter "x". When you enter "x", the program will terminate.
